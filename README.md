@@ -1,5 +1,6 @@
 # Official Implementation of FRec
 SIGIR'24 Paper: Modeling User Fatigue for Sequential Recommendation
+
 Based on [Microsoft Recommender](https://github.com/microsoft/recommenders) and Tensorflow 2.1.
 ## Data
 We provide Taobao dataset. The input data is organized as standard sequential input in recommender described [here](https://github.com/microsoft/recommenders/blob/main/examples/00_quick_start/sequential_recsys_amazondataset.ipynb).
